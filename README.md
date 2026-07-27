@@ -1,16 +1,52 @@
-# React + Vite
+# Fitness Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Internship Details
 
-Currently, two official plugins are available:
+- Intern Name: Kasukurthi Mona Sai Keerthi
+- Intern ID: CITS3280
+- Company: CodTech IT Solutions Pvt. Ltd.
+- Internship Domain: React.js Web Development
+- Project Name: Fitness Tracker
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Project Description
 
-## React Compiler
+Fitness Tracker is a simple React.js web application that helps users monitor their daily fitness activities. The application provides an interactive dashboard to track daily steps, water intake, and calories. It is designed with a clean and user-friendly interface to encourage healthy habits while demonstrating the basic concepts of React.js.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Track daily steps
+- Monitor water intake
+- Track calories
+- Reset all values
+- Interactive dashboard
+- Responsive user interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+
+## Project Scope
+
+The main objective of this project is to demonstrate the fundamentals of React.js by building a simple fitness tracking application. It covers React components, state management using React Hooks, event handling, and responsive user interface design.
+
+## Installation
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+## Author
+
+Mona Sai Keerthi
